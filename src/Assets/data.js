@@ -5,17 +5,17 @@
 export const data = [
     {
         id:"1",
-        name:"OnePlus Nord CE 3 5G ",
-        image:"https://m.media-amazon.com/images/I/6175SlKKECL._SL1500_.jpg",
-        price:24999,
+        name:"iPhone 15 Pro  ",
+        image:"https://m.media-amazon.com/images/I/81+GIkwqLIL._AC_UY327_FMwebp_QL65_.jpg",
+        price:130990,
         category:"electric"
 
     },
     {
         id:"2",
-        name:"Apple iPhone 15 ",
-        image:"https://m.media-amazon.com/images/I/71d7rfSl0wL._SL1500_.jpg",
-        price:72990,
+        name:"Fire-Boltt Ninja Call Pro Plus",
+        image:"https://m.media-amazon.com/images/I/41-zB3M31dL._SX300_SY300_QL70_FMwebp_.jpg",
+        price:4000,
         category:"electric"
 
     },
