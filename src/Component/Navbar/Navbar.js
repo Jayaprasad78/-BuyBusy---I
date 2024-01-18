@@ -23,7 +23,7 @@ export default function Navbar(){
                     <NavLink to="/">
                         {/* logo of the app */}
                         <i class="fa-solid fa-shop"></i>
-                        ShopSprint
+                        BuyBusy
                     </NavLink>
                 </div>
 
